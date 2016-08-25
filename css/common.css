@@ -1,0 +1,106 @@
+.mg0{margin:0 auto;}
+.fl{float:left;}
+.mgl-20{margin-left:20px;}
+.mgl-30{margin-left:30px;}
+.mgl-40{margin-left:40px;}
+.mgl-47{margin-left:47px;}
+.mgl-50{margin-left:50px;}
+.mgl-65{margin-left:65px;}
+.mgl-80{margin-left:80px;}
+.mgl-100{margin-left:100px;}
+.mgl-120{margin-left:120px;}
+.mgl-150{margin-left:150px;}
+.mgl-160{margin-left:160px;}
+.mgl-260{margin-left:260px;}
+.mgl-370{margin-left:370px;}
+.mgt-20{margin-top:20px;}
+.mgt-35{margin-top:35px;}
+.mgt-50{margin-top:50px;}
+.mgt-100{margin-top:100px;}
+.pdt-50{padding-top:50px;}
+.clearfloat{zoom:1;}
+.clearfloat:after{
+	display:block;
+	visibility:hidden;
+	clear:both;
+	content:"";
+	line-height:0;
+}
+.content{
+	width:1200px;
+}
+.nav{
+	width:1200px;
+	height:60px;
+	background-color:white;
+}
+.nav a{color:black;}
+.nav-lafite a{color:white;}
+.nav ul a:hover{color:red;}
+.nav ul li{
+	display:inline-block;
+	font:15px "Batang";
+	margin-left:20px;
+	line-height:60px;
+}
+.nav ul li:hover .nav-lafite{
+	display:block;
+}
+.nav-lafite{
+	width:800px;
+	height:60px;
+	background-color:black;
+	position:absolute;
+	top:60px;
+	left:450px;
+	display:none;
+}
+.nav-lafite ul li{
+	display:inline-block;
+	font:15px "Batang";
+	color:white;
+	line-height:60px;
+	margin-left:20px;
+}
+.nav-lafite span{
+	margin-left:20px;
+	color:white;
+}
+.footer{
+	width:1200px;
+	height:517px;
+	background:url(../images/footer.png);
+}
+.footer p{
+	font:bold 50px "Vijaya";
+	padding-top:20px;
+	color:#b89d63;
+}
+.footer hr{
+	width:1000px;
+}
+.footer ul li{
+	display:inline-block;
+}
+.footer-demo{
+	margin-top:30px;
+	width:300px;
+	height:360px;
+	background-color:white;
+}
+.footer-logo{
+	width:70px;
+	height:50px;
+	margin-left:115px;
+	background:url(../images/footer-logo.png);
+}
+.footer-demo p{
+	font:17px "宋体";
+	color:black;
+	line-height:30px;
+}
+.footer-span{
+	width:200px;
+	text-align:center;
+	font-size:13px;
+}
