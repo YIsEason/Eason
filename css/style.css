@@ -1,0 +1,163 @@
+﻿.logo{
+	width:120px;
+	height:120px;
+	background:url(../images/lafite2.png);
+}
+.text{text-align:center;}
+.header{
+	width:1200px;
+	height:600px;
+	background:url(../images/background-lafite.png);
+}
+.header-logo{
+	width:320px;
+	height:241px;
+	background:url(../images/Lafite-stamp.png);
+}
+.header p{
+	clear:left;
+	color:white;
+	font:bold 25px "Segoe Script";
+}
+.barnav{
+	width:1000px;
+	height:100px;
+	background-color:#2b2b2b;
+}
+.barnav p{
+	font:50px "Gabriola";
+	text-align:center;
+	line-height:80px;
+	color:#b89d63;
+}
+hr{color:#b89d63;}
+.wines{
+	width:1200px;
+	height:1200px;
+	background-color:#2b2b2b;
+}
+.wines-rothschild{
+	width:1000px;
+	height:500px;
+	background-color:#2b2b2b;
+	position:relative;
+	top:30px;
+	left:100px;
+}
+.wines-photo{
+	width:110px;
+	height:400px;
+	background:url(../images/Rothschild.png);
+	text-align:center;
+	margin-left:445px;
+}
+.wines-rothschild p{
+	font:50px "Vijaya";
+	color:#b89d63;
+}
+.demo-wines{
+	clear:left;
+	width:1000px;
+	height:500px;
+	position:absolute;
+	top:0px;
+	left:0px;
+	
+	background-color:rgba(184,158,99,0.8);
+}
+.demo-wines p{
+	font:30px "Vijaya";
+	padding-top:120px;
+	color:white;
+}
+.demo-wines-span{
+	width:300px;
+	padding-top:15px;
+	font-size:17px;
+	line-height:20px;
+	color:white;
+}
+.demo-wines{
+	display:none;
+}
+.wines-rothschild:hover .demo-wines{
+	display:block;
+}
+
+.wines-carruades{
+	width:1000px;
+	height:500px;
+	background-color:#9d9d9d;
+	position:relative;
+	top:50px;
+	left:100px;
+}
+.wines-carruades p{
+	font:50px "Vijaya";
+	color:white;
+}
+.demo-carruades{
+	clear:left;
+	width:1000px;
+	height:500px;
+	position:absolute;
+	top:0px;
+	left:0px;
+	background-color:rgba(184,158,99,0.8);
+}
+.demo-carruades p{
+	font:30px "Vijaya";
+	padding-top:120px;
+	color:white;
+}
+.demo-carruades{
+	display:none;
+}
+.wines-carruades:hover .demo-carruades{
+	display:block;
+}
+.history{
+	width:1200px;
+	height:400px;
+}
+.history p{
+	font:bold 50px "Vijaya";
+	padding-top:20px;
+	color:#b89d63;
+}
+.history ul p{
+	font-size:25px;
+}
+.history ul li{
+	font-size:15px;
+	width:350px;
+	margin-left:20px;
+	display:inline-block;
+}
+.history input{
+	font:25px "Vihava";
+	color:#b89d63;
+	width:320px;
+	height:50px;
+	margin-left:435px;
+	margin-top:50px;
+	background:#373737;
+	border:1px solid #373737;
+}
+.cellars{
+	width:1200px;
+	height:750px;
+}
+.cellars p{
+	font:bold 50px "Vijaya";
+	padding-top:20px;
+	color:#b89d63;
+}
+.cellars ul li{
+	font-size:15px;
+	width:370px;
+	margin-left:20px;
+	margin-top:50px;
+	display:inline-block;
+	line-height:25px;
+}
