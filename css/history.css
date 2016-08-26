@@ -1,0 +1,63 @@
+﻿.content{width:1200px;}
+.logo{
+	width:120px;
+	height:120px;
+	background:url(../images/lafite2.png);
+}
+.text{text-align:center;}
+	a{color:white;}
+.main{
+	width:1200px;
+	height:3225px;
+	background:url(../images/background-history.png);
+}
+.main p{
+	font:50px "Batang";
+	margin-top:80px;
+	margin-left:200px;
+	color:#b89d63;
+}
+hr{
+	clear:left;
+	width:1000px;
+	color:#b89d63;
+}
+.demo{
+	width:400px;
+	background-color:white;
+}
+h1{
+	text-align:center;
+	color:#b89d63;
+}
+h2{
+	width:320px;
+	text-align:center;
+}
+.main img{
+	margin-left:40px;
+}
+.demo span{
+	width:320px;
+	font:11px "Batang";
+	line-height:15px;
+}
+.box-h{
+	height:3000px;
+	border-left:2px solid #b89d63;
+}
+.history-u{
+	float:right;
+}
+.top{
+	width:60px;
+	height:80px;
+	background-color:#b89d63;
+	margin-top:3125px;
+	margin-right:10px;
+	font-size:25px;
+	line-height:80px;
+	text-align:center;
+	color:white;
+}
+
