@@ -1,0 +1,123 @@
+﻿.logo{
+	width:120px;
+	height:120px;
+	background:url(../images/lafite2.png);
+}
+.background-los{
+	width:1200px;
+	height:500px;
+	background:url(../images/background-vascos.png);
+}
+.text{text-align:center;}
+.background-los-p{
+	font:50px bold;
+	color:white;
+	text-align:center;
+}
+.los-font{
+	clear:left;
+	font:30px "Vijaya";
+	color:white;
+	text-align:center;
+}
+.los{
+	width:1200px;
+	height:650px;
+	background-color:#2b2b2b;
+}
+.los p{
+	font:50px "Gabriola";
+	text-align:center;
+	line-height:80px;
+	color:#b89d63;
+}
+hr{width:1000px;color:#b89d63;}
+.vascos{
+	width:300px;
+	height:500px;
+	background-color:#9d9d9d;
+	position:relative;
+	top:0px;
+	left:0px;
+}
+.los ul li{
+	display:inline-block;
+}
+.vascos p{
+	font:30px "Gabriola";
+	color:white;
+}
+.vascos-demo-span{
+	font:17px "Gabriola";
+	color:white;
+	text-align:center;
+}
+.vascos-demo{
+	position:absolute;
+	top:0px;
+	left:0px;
+	width:300px;
+	height:500px;
+	background-color:rgba(184,158,99,0.8);
+}
+.vascos-demo{display:none;}
+.vascos:hover .vascos-demo{display:block;cursor:pointer;}
+.blanc-demo{
+	position:absolute;
+	top:0px;
+	left:0px;
+	width:300px;
+	height:500px;
+	background-color:rgba(184,158,99,0.8);
+}
+.blanc-demo{display:none;}
+.vascos:hover .blanc-demo{display:block;cursor:pointer;}
+.medoc-demo{
+	position:absolute;
+	top:0px;
+	left:0px;
+	width:300px;
+	height:500px;
+	background-color:rgba(184,158,99,0.8);
+}
+.medoc-demo{display:none;}
+.vascos:hover .medoc-demo{display:block;cursor:pointer;}
+.history{
+	width:1200px;
+	height:500px;
+	background-color:white;
+}
+.history-p{
+	font:50px "Gabriola";
+	text-align:center;
+	line-height:80px;
+	color:#b89d63;
+}
+.history ul p{
+	font-size:20px;
+}
+.history ul li{
+	vertical-align:top;
+	font-size:15px;
+	width:350px;
+	margin-left:20px;
+	display:inline-block;
+}
+.vineyard{
+	clear:left;
+	width:1200px;
+	height:500px;
+	background-color:#2b2b2b;
+}
+.vineyard ul p{
+	font-size:20px;
+	color:white;
+}
+.vineyard ul li{
+	vertical-align:top;
+	font-size:15px;
+	width:350px;
+	margin-left:20px;
+	display:inline-block;
+	color:white;
+}
